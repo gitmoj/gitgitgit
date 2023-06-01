@@ -3,3 +3,8 @@ git status
 git add .
 git commit -m "fdsfd"
 git push
+git branches > tree branches
+git merge better work
+git push newfile1
+or git push .
+
